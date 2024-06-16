@@ -1,0 +1,119 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "ClassLibraryLab10/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/ClassLibraryLab10.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClassLibraryLab10.dll": {}
+        }
+      },
+      "MyCollectionLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "ClassLibraryLab10": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MyCollectionLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyCollectionLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClassLibraryLab10/1.0.0": {
+      "type": "project",
+      "path": "../ClassLibraryLab10/ClassLibraryLab10.csproj",
+      "msbuildProject": "../ClassLibraryLab10/ClassLibraryLab10.csproj"
+    },
+    "MyCollectionLibrary/1.0.0": {
+      "type": "project",
+      "path": "../MyCollectionLibrary/MyCollectionLibrary.csproj",
+      "msbuildProject": "../MyCollectionLibrary/MyCollectionLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "ClassLibraryLab10 >= 1.0.0",
+      "MyCollectionLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\user\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\user\\source\\repos\\Lab14\\Lab14.csproj",
+      "projectName": "Lab14",
+      "projectPath": "C:\\Users\\user\\source\\repos\\Lab14\\Lab14.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\source\\repos\\Lab14\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\user\\source\\repos\\ClassLibraryLab10\\ClassLibraryLab10.csproj": {
+              "projectPath": "C:\\Users\\user\\source\\repos\\ClassLibraryLab10\\ClassLibraryLab10.csproj"
+            },
+            "C:\\Users\\user\\source\\repos\\MyCollectionLibrary\\MyCollectionLibrary.csproj": {
+              "projectPath": "C:\\Users\\user\\source\\repos\\MyCollectionLibrary\\MyCollectionLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

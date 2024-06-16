@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\MyCollectionLibrary\bin\Debug\net7.0\MyCollectionLibrary.deps.json
+C:\Users\user\source\repos\MyCollectionLibrary\bin\Debug\net7.0\MyCollectionLibrary.dll
+C:\Users\user\source\repos\MyCollectionLibrary\bin\Debug\net7.0\MyCollectionLibrary.pdb
+C:\Users\user\source\repos\MyCollectionLibrary\bin\Debug\net7.0\ClassLibraryLab10.dll
+C:\Users\user\source\repos\MyCollectionLibrary\bin\Debug\net7.0\ClassLibraryLab10.pdb
+C:\Users\user\source\repos\MyCollectionLibrary\obj\Debug\net7.0\MyCollectionLibrary.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\MyCollectionLibrary\obj\Debug\net7.0\MyCollectionLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\MyCollectionLibrary\obj\Debug\net7.0\MyCollectionLibrary.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MyCollectionLibrary\obj\Debug\net7.0\MyCollectionLibrary.AssemblyInfo.cs
+C:\Users\user\source\repos\MyCollectionLibrary\obj\Debug\net7.0\MyCollectionLibrary.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MyCollectionLibrary\obj\Debug\net7.0\MyCollectionLibrary.csproj.CopyComplete
+C:\Users\user\source\repos\MyCollectionLibrary\obj\Debug\net7.0\MyCollectionLibrary.dll
+C:\Users\user\source\repos\MyCollectionLibrary\obj\Debug\net7.0\refint\MyCollectionLibrary.dll
+C:\Users\user\source\repos\MyCollectionLibrary\obj\Debug\net7.0\MyCollectionLibrary.pdb
+C:\Users\user\source\repos\MyCollectionLibrary\obj\Debug\net7.0\ref\MyCollectionLibrary.dll

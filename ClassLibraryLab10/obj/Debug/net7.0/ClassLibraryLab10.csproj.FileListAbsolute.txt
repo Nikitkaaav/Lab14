@@ -1,0 +1,33 @@
+D:\C# progs\ClassLibraryLab10\bin\Debug\net7.0\ClassLibraryLab10.deps.json
+D:\C# progs\ClassLibraryLab10\bin\Debug\net7.0\ClassLibraryLab10.dll
+D:\C# progs\ClassLibraryLab10\bin\Debug\net7.0\ClassLibraryLab10.pdb
+D:\C# progs\ClassLibraryLab10\obj\Debug\net7.0\ClassLibraryLab10.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# progs\ClassLibraryLab10\obj\Debug\net7.0\ClassLibraryLab10.AssemblyInfoInputs.cache
+D:\C# progs\ClassLibraryLab10\obj\Debug\net7.0\ClassLibraryLab10.AssemblyInfo.cs
+D:\C# progs\ClassLibraryLab10\obj\Debug\net7.0\ClassLibraryLab10.csproj.CoreCompileInputs.cache
+D:\C# progs\ClassLibraryLab10\obj\Debug\net7.0\ClassLibraryLab10.dll
+D:\C# progs\ClassLibraryLab10\obj\Debug\net7.0\refint\ClassLibraryLab10.dll
+D:\C# progs\ClassLibraryLab10\obj\Debug\net7.0\ClassLibraryLab10.pdb
+D:\C# progs\ClassLibraryLab10\obj\Debug\net7.0\ref\ClassLibraryLab10.dll
+C:\Users\user\source\repos\Lab12\ClassLibraryLab10\bin\Debug\net7.0\ClassLibraryLab10.deps.json
+C:\Users\user\source\repos\Lab12\ClassLibraryLab10\bin\Debug\net7.0\ClassLibraryLab10.dll
+C:\Users\user\source\repos\Lab12\ClassLibraryLab10\bin\Debug\net7.0\ClassLibraryLab10.pdb
+C:\Users\user\source\repos\Lab12\ClassLibraryLab10\obj\Debug\net7.0\ClassLibraryLab10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Lab12\ClassLibraryLab10\obj\Debug\net7.0\ClassLibraryLab10.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Lab12\ClassLibraryLab10\obj\Debug\net7.0\ClassLibraryLab10.AssemblyInfo.cs
+C:\Users\user\source\repos\Lab12\ClassLibraryLab10\obj\Debug\net7.0\ClassLibraryLab10.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Lab12\ClassLibraryLab10\obj\Debug\net7.0\ClassLibraryLab10.dll
+C:\Users\user\source\repos\Lab12\ClassLibraryLab10\obj\Debug\net7.0\refint\ClassLibraryLab10.dll
+C:\Users\user\source\repos\Lab12\ClassLibraryLab10\obj\Debug\net7.0\ClassLibraryLab10.pdb
+C:\Users\user\source\repos\Lab12\ClassLibraryLab10\obj\Debug\net7.0\ref\ClassLibraryLab10.dll
+C:\Users\user\source\repos\ClassLibraryLab10\bin\Debug\net7.0\ClassLibraryLab10.deps.json
+C:\Users\user\source\repos\ClassLibraryLab10\bin\Debug\net7.0\ClassLibraryLab10.dll
+C:\Users\user\source\repos\ClassLibraryLab10\bin\Debug\net7.0\ClassLibraryLab10.pdb
+C:\Users\user\source\repos\ClassLibraryLab10\obj\Debug\net7.0\ClassLibraryLab10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ClassLibraryLab10\obj\Debug\net7.0\ClassLibraryLab10.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ClassLibraryLab10\obj\Debug\net7.0\ClassLibraryLab10.AssemblyInfo.cs
+C:\Users\user\source\repos\ClassLibraryLab10\obj\Debug\net7.0\ClassLibraryLab10.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ClassLibraryLab10\obj\Debug\net7.0\ClassLibraryLab10.dll
+C:\Users\user\source\repos\ClassLibraryLab10\obj\Debug\net7.0\refint\ClassLibraryLab10.dll
+C:\Users\user\source\repos\ClassLibraryLab10\obj\Debug\net7.0\ClassLibraryLab10.pdb
+C:\Users\user\source\repos\ClassLibraryLab10\obj\Debug\net7.0\ref\ClassLibraryLab10.dll

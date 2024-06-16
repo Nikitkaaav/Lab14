@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Lab14/1.0.0": {
+        "dependencies": {
+          "ClassLibraryLab10": "1.0.0",
+          "MyCollectionLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Lab14.dll": {}
+        }
+      },
+      "ClassLibraryLab10/1.0.0": {
+        "runtime": {
+          "ClassLibraryLab10.dll": {}
+        }
+      },
+      "MyCollectionLibrary/1.0.0": {
+        "dependencies": {
+          "ClassLibraryLab10": "1.0.0"
+        },
+        "runtime": {
+          "MyCollectionLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab14/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibraryLab10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyCollectionLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
